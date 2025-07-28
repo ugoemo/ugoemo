@@ -1,6 +1,13 @@
 # NAOYA IIDA
 日本でシステムエンジニアをしています。
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ugoemo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ugoemo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ugoemo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ugoemo&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ugoemo&theme=github&utcOffset=8)
+
+
 ## プログラミング言語
 - Java (JavaPlugin / SpringBoot / Swing)
 - php (Vanilla / Laravel)
