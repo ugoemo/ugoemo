@@ -23,7 +23,7 @@
 - VBA
 
 ## データベース
-- MySQL
+- MySQL / MariaDB
 - OracleDB
 - Postgres
 - SQLite
@@ -35,7 +35,7 @@
 - CloudFlare (ロードバランサー / メール転送)
 - WireGuard (サーバー公開用VPN構築）
 - ProxmoxVE(サーバー仮想化 / クラスタリング / ライブマイグレーション)
-- Docker(開発環境のコンテナ化)
+- Docker(開発環境のコンテナ化 / リリース環境での使用)
 - GitHub (バージョン管理 / 自動リリース)
 
 ## 使用OS
@@ -43,6 +43,7 @@
 - MacOS Sequoia 15.5
 - Ubuntu 20 / 22 / 24
 - CentOS 8 / Stream 9
+- AlmaLinux 9
 
 ## 制作実績
 - 注文書作成ツール (VBA)
