@@ -3,6 +3,26 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ugoemo&theme=github)
 
+## スキルバッジ
+
+### プログラミング言語
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,cs,js,php,python,html,css,lua,md&theme=light)](https://skillicons.dev)
+
+### ライブラリ
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,dotnet,flask,gradle,jquery,laravel,maven,nuxtjs,nextjs,nodejs,opencv,prisma,pytorch,react,spring,svelte,tailwind,vite,vue,webpack&theme=light)](https://skillicons.dev)
+
+### インフラストラクチャ
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker&theme=light)](https://skillicons.dev)
+
+### OS
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,redhat,debian,ubuntu,apple&theme=light)](https://skillicons.dev)
+
+### データベース
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres,&theme=light)](https://skillicons.dev)
+
+### その他
+[![My Skills](https://skillicons.dev/icons?i=ae,blender,discord,git,github,gitlab,gmail,ai,jenkins,nginx,ps,powershell,stackoverflow,tensorflow,vim,visualstudio,vscode,wordpress&theme=light)](https://skillicons.dev)
+
 ## プログラミング言語
 - Java (JavaPlugin / SpringBoot / Swing)
 - php (Vanilla / Laravel)
