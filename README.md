@@ -3,6 +3,13 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ugoemo&theme=github)
 
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ugoemo&count_private=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugoemo&layout=compact&count_private=true)</a>
+</details>
+
 ## スキルバッジ
 
 ### プログラミング言語
