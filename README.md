@@ -58,16 +58,19 @@
 
 ## その他技術
 - さくらのクラウド (コンピューティング)
+- GoogleCloudPlatform（クラウドストレージ）
+- WebArenaIndigo（コンピューティング）
 - Linode (コンピューティング)
 - CloudFlare (ロードバランサー / メール転送)
 - WireGuard (サーバー公開用VPN構築）
 - ProxmoxVE(サーバー仮想化 / クラスタリング / ライブマイグレーション)
 - Docker(開発環境のコンテナ化 / リリース環境での使用)
 - GitHub (バージョン管理 / 自動リリース)
+- Wordpress（ホームページ作成）
 
 ## 使用OS
 - Windows 11 24H2
-- MacOS Sequoia 15.5
+- MacOS Sequoia 15.6.1
 - Ubuntu 20 / 22 / 24
 - CentOS 8 / Stream 9
 - AlmaLinux 9
@@ -78,6 +81,9 @@
 - 請求書作成システム開発 (Laravel / React / VBA)
 - 在庫管理システム開発 (Laravel / React)
 - 経費申請システム開発 (Laravel / React)
+- Wordファイルの変更履歴管理アプリの開発（Laravel / React）
+- 全文検索アプリの開発（Laravel / React）
+- メール一括送信アプリの開発（Laravel / React）
 - iOS / Android クイズアプリ開発 (Vanilla php / Svelte)
 - モバイルオーダーシステム開発 (Java / React)
 - マインクラフトサーバープラグイン開発 (Java)
